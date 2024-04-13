@@ -1,0 +1,18 @@
+None
+None
+None
+None
+None
+{'Url': 'https://www.sciencedirect.com/science/article/pii/S0167718719300864', 'Error': TimeoutError('Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for locator("button").filter(has_text="Show more") to be visible\n============================================================')}
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

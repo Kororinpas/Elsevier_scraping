@@ -1,0 +1,13 @@
+None
+None
+None
+None
+None
+None
+{'Url': 'https://www.sciencedirect.com/science/article/pii/S0313592621000175', 'Error': Error('net::ERR_CONNECTION_CLOSED at https://www.sciencedirect.com/science/article/pii/S0313592621000175\n=========================== logs ===========================\nnavigating to "https://www.sciencedirect.com/science/article/pii/S0313592621000175", waiting until "load"\n============================================================')}
+None
+None
+None
+None
+None
+None

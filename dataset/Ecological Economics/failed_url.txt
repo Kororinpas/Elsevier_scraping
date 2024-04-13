@@ -1,0 +1,11 @@
+None
+None
+None
+None
+None
+{'Url': 'https://www.sciencedirect.com/science/article/pii/S0921800918312412', 'Error': TimeoutError('Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to "https://www.sciencedirect.com/science/article/pii/S0921800918312412", waiting until "load"\n============================================================')}
+None
+None
+None
+None
+None
